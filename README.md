@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-¡Hola! Soy Jorge Carrillo Negrete, ingeniero graduado del Instituto Politécnico Nacional y una mestria en España, con una profunda pasión por los números y la ciencia de datos. Con una sólida experiencia en el área y residiendo en México, estoy siempre en busca de nuevos desafíos y oportunidades colaborativas que impulsen mi crecimiento profesional. Si tu proyecto requiere una mente analítica y creativa, estaré encantado de formar parte de él. 🌟
+¡Hola! Soy Jorge Carrillo Negrete, ingeniero graduado del Instituto Politécnico Nacional y una maestría en España, con una profunda pasión por los números y la ciencia de datos. Con una sólida experiencia en el área y residiendo en México, estoy siempre en busca de nuevos desafíos y oportunidades colaborativas que impulsen mi crecimiento profesional. Si tu proyecto requiere una mente analítica y creativa, estaré encantado de formar parte de él. 🌟
 
 Desde siempre me ha emocionado desentrañar los insights ocultos en los datos mediante análisis detallados. Además, me apasiona anticipar escenarios complejos utilizando machine learning, lo que me permite brindar soluciones exactas y enfocadas en alcanzar resultados concretos.
 
