@@ -21,17 +21,17 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Financial Fraud Detection</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://i.postimg.cc/BvxyRpHJ/fraude.png" width="400" alt="Financial Fraud"> 
+          <img src="https://i.postimg.cc/BvxpHJ/fraude.png" width="400" alt="Financial Fraud"> 
         </a>
         <p>
-          <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-f8f?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/GabChavezC/Financial_Fraud_Detection" target="_blank">
+            <img src="https://img.shields.ioadge/GITHUB-f8f?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://github.com/GabrielChavezC/Financial_Fraud_Detection/blob/main/Plantilla_Financial_Fraud_Detection.ipynb" target="_blank">
-            <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=f8f">
+          <a href="https://github.com/GabrielChavezCinancial_Fraud_Detection/blob/main/Plantilla_Financial_Fraud_Detection.ipynb" target="_blank">
+            <img src="https://img.shields.io/badge/-CO-green?style=for-the-badge&color=f8f">
           </a>
-           <a href="https://www.linkedin.com/feed/update/urn:li:activity:7201801202420830208/" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-f8f?style=for-the-badge&logo=linkedin&logoColor=black">
+           <a href="https://www.linkedin.com/fe/update/urn:li:activity:7201801202420830208/" target="_blank">
+            <img src="https://img.shields.io/badge/linkn-f8f?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
         <p>💼En este emocionante proyecto, trabajamos con una enorme base de datos que contenía seis millones de transacciones. Nuestro reto principal fue desarrollar un modelo de machine learning para detectar transacciones fraudulentas, ¡con tan solo el 0.1% de los datos etiquetados como fraudes! 😱</p>
@@ -41,17 +41,17 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">TELECOM</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://github.com/user-attachments/assets/9652df5f-47b8-4f44-9f81-e8af1d7060ba" width="400" alt="Financial Fraud"> 
+          <img src="https://github.com/user-attachments/ssets/9652df5f-47b8-4f44-9f81-e8af1d7060ba" width="400" alt="Financial Fraud"> 
         </a>
         <p>
           <a href="https://telecom.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/APP-000080?style=for-the-badge&logo=webpack&logoColor=black">
+            <img src="https://img.shields.io/badge/APP-000080?styfor-the-badge&logo=webpack&logoColor=black">
           </a>
-          <a href="https://gabrielchavezc.github.io/projects/telecom_proyect.html" target="_blank">
-            <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
+          <a href="https://gabrielchavezc.github.io/projec/telecom_proyect.html" target="_blank">
+            <img src="https://img.shields.io/badge/-C-green?style=for-the-badge&color=000080">
           </a>
-           <a href="https://www.linkedin.com/feed/update/urn:li:activity:7218962684245872640/" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-000080?style=for-the-badge&logo=linkedin&logoColor=black">
+           <a href="https://www.linkedin.com/feed/ate/urn:li:activity:7218962684245872640/" target="_blank">
+            <img src="https://img.shields.io/badge/ledin-000080?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
         <p>Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su tasa de cancelación de clientes 📉. Si se descubre que un usuario o usuaria planea irse 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟.</p>
@@ -61,17 +61,17 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Dashboard</h3>
       <div align="center">
         <a href="" target="_blank">
-          <img src="https://github.com/user-attachments/assets/f2bef59b-7f4b-4613-8629-eb529ce8691a" width="400" alt="img">
+          <img src="https://github.com/user-attachments/ets/f2bef59b-7f4b-4613-8629-eb529ce8691a" width="400" alt="img">
         </a>
         <p>
-          <a href="https://dash-store-brazil-analytics.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/APP-80ffaa?style=for-the-badge&logo=webpack&logoColor=black">
+          <a href="https://dash-store-brazil-analytics.reamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/APP-80ffaatyle=for-the-badge&logo=webpack&logoColor=black">
           </a>
-          <a href="https://github.com/GabrielChavezC/store_sales_interactive" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/GabrielChavezC/storales_interactive" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUBfaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
            <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-80ffaa?style=for-the-badge&logo=linkedin&logoColor=black">
+            <img src="https://img.shields.io/badge/linkedinffaa?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
         <p>Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠
@@ -158,13 +158,13 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
 ### 🔝 Top Contributed Repo
 <p align="center">
   <a href="#">
-  <img height="250em" src="https://github-contributor-stats.vercel.app/api?username=GabrielChavezC&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+  <img height="250em" src="https://github-contributor-stats.vercel.app/api?username=GabrielzC&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </a>
 </p>
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=GabrielChavezC&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GabrielChavezC&ic=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
