@@ -21,10 +21,10 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Financial Fraud Detection</h3>
       <div align="center">
         <a href="#" target="_blank">
-          <img src="https://i.postimg.cc/BvxpHJ/fraude.png" width="400" alt="Financial Fraud"> 
+          <img src="https://itsoftware.com.co/content/wp-content/uploads/2016/06/fraude2.jpg" width="400" alt="Financial Fraud"> 
         </a>
         <p>
-          <a href="https://github.com/GabChavezC/Financial_Fraud_Detection" target="_blank">
+          <a href="https://github.com/XORGE7/Financial_Fraud_Detection" target="_blank">
             <img src="https://img.shields.ioadge/GITHUB-f8f?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://github.com/GabrielChavezCinancial_Fraud_Detection/blob/main/Plantilla_Financial_Fraud_Detection.ipynb" target="_blank">
