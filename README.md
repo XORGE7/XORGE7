@@ -34,7 +34,7 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
             <img src="https://img.shields.io/badge/linkedin-f8f?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
-        <p>💼En este desafiante proyecto, nos enfrentamos a una base de datos masiva de seis millones de transacciones. Nuestra tarea principal es construir un modelo de machine learning capaz de identificar transacciones fraudulentas, ¡y solo contamos con el 0.1% de                   datos etiquetados como fraudulentos! 😱</p>
+        <p>💼En este emocionante proyecto, trabajamos con una enorme base de datos que contenía seis millones de transacciones. Nuestro reto principal fue desarrollar un modelo de machine learning para detectar transacciones fraudulentas, ¡con tan solo el 0.1% de los datos etiquetados como fraudes! 😱</p>
       </div>
     </td>
       <td width="30%">
