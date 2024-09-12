@@ -55,28 +55,24 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
         </p>
         <p>El operador de telecomunicaciones LADAFON desea predecir su tasa de cancelación de clientes 📉. Si se detecta que un usuario o usuaria planea cancelar su servicio 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟 para retenerlo</div>
     </td>
-    <td width="30%">
-      <h3 align="center">Dashboard</h3>
-      <div align="center">
-        <a href="" target="_blank">
-          <img src="https://es.pngtree.com/freepng/colombia-map-province-map-colombian-vector_9505764.html" width="400" alt="img">
-        </a>
-        <p>
-          <a href="https://es.pngtree.com/freepng/colombia-map-province-map-colombian-vector_9505764.html" target="_blank">
-            <img src="https://github.com/XORGE7/Interactive_Sales_Dashboard">
-          </a>
-          <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
-            <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/linkedin-80ffaa?style=for-the-badge&logo=linkedin&logoColor=black">
-          </a>
-        </p>
-        <p>Una tienda online de moda, con presencia en todo colombia, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠
+   <td width="30%">
+  <h3 align="center">Dashboard</h3>
+  <div align="center">
+    <a href="https://es.pngtree.com/freepng/colombia-map-province-map-colombian-vector_9505764.html" target="_blank">
+      <img src="https://png.pngtree.com/png-clipart/20230524/original/pngtree-colombia-map-province-map-colombian-vector-png-image_9505764.png" width="400" alt="Colombian Map">
+    </a>
+    <p>
+      <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
+        <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://www.linkedin.com/in/jorge-carrillo-negrete/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-80ffaa?style=for-the-badge&logo=linkedin&logoColor=black">
+      </a>
+    </p>
+    <p>Una tienda online de moda, con presencia en todo Colombia, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠Impulsa tu tienda usando un análisis de datos estratégicos 🔍💡📈</p>
+  </div>
+</td>
 
-   Impulsa tu tienda usando un análisis de datos estratégicos 🔍💡📈</p>
-      </div>
-    </td>
   </tr>
 </table>
 
