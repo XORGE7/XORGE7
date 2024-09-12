@@ -44,7 +44,7 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
         </a>
         <p>
           <a href="https://i.colnect.net/f/43/128/Ladafon_Tarjetas_Amigo.jpg" target="_blank">
-            <img src="https://img.shields.io/badge/APP-000080?style=for-the-badge&logo=webpack&logoColor=black">
+            <img src="https://postimg.cc/gX5YS3hs">
           </a>
           <a href="https://github.com/XORGE7/LADAFON" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
