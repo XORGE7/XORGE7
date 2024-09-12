@@ -56,7 +56,7 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
         <p>El operador de telecomunicaciones LADAFON desea predecir su tasa de cancelación de clientes 📉. Si se detecta que un usuario o usuaria planea cancelar su servicio 🏃‍♂️🏃‍♀️, se le ofrecerán códigos promocionales 🎟️ y opciones de planes especiales 🌟 para retenerlo</div>
     </td>
    <td width="30%">
-  <h3 align="center">Dashboard</h3>
+  <h3 align="center">Panel de Control</h3>
   <div align="center">
     <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
       <img src="https://media.slidesgo.com/storage/3224850/responsive-images/0-colombia-map-infographics___media_library_original_1600_900.jpg">
@@ -88,23 +88,23 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
      <p><a href="https://gabrielchavezc.github.io/projects/movies_proyect.html">Movies Analysis</a></p>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 2" style="width:100%;">
+      <img src="https://universidaddepadres.es/wp-content/uploads/humanos_construccion.jpg" alt="Imagen 2" style="width:100%;">
      <p><a href="#">2</a></p>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 3" style="width:100%;">
+      <img src="https://universidaddepadres.es/wp-content/uploads/humanos_construccion.jpg" alt="Imagen 3" style="width:100%;">
      <p><a href="#">3</a></p>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 4" style="width:100%;">
+      <img src="https://universidaddepadres.es/wp-content/uploads/humanos_construccion.jpg" alt="Imagen 4" style="width:100%;">
       <p><a href="#">4</a></p>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 5" style="width:100%;">
+      <img src="https://universidaddepadres.es/wp-content/uploads/humanos_construccion.jpg" alt="Imagen 5" style="width:100%;">
       <p><a href="#">5</a></p>
     </td>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 6" style="width:100%;">
+      <img src="https://universidaddepadres.es/wp-content/uploads/humanos_construccion.jpg" alt="Imagen 6" style="width:100%;">
       <p><a href="#">6</a></p>
     </td>
   </tr>
