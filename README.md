@@ -84,6 +84,7 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
 
 
 
+### Proyectos
 <table>
   <tr>
     <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
@@ -106,44 +107,48 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 5" style="width:100%;">
       <p><a href="#">5</a></p>
     </td>
-      <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
-      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 5" style="width:100%;">
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" alt="Imagen 6" style="width:100%;">
       <p><a href="#">6</a></p>
     </td>
   </tr>
 </table>
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gabrielchavezc.github.io/)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-carrillo-negrete//)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotib](https://img.shields.io/badge/Matplotib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotib](https://img.shields.io/badge/Matplotib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 # 📊 GitHub Stats:
 
 <p align="center">
 <a href="#">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavezC&theme=algolia&hide_progress=true"/>
- 
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielChavezC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XORGE7&theme=algolia&hide_progress=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XORGE7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 <p align="center">
 <a href="#">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielChavezC&theme=algolia&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=XORGE7&theme=algolia&hide_border=false"/>
 </a>
 </p>
 
 
+
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=XORGE7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ---
@@ -156,13 +161,14 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
 ### 🔝 Top Contributed Repo
 <p align="center">
   <a href="#">
-  <img height="250em" src="https://github-contributor-stats.vercel.app/api?username=GabrielzC&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+  <img height="250em" src="https://github-contributor-stats.vercel.app/api?username=XORGE7&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
 </a>
 </p>
 
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=GabrielChavezC&ic=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=XORGE7&ic=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
