@@ -59,11 +59,11 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
       <h3 align="center">Dashboard</h3>
       <div align="center">
         <a href="" target="_blank">
-          <img src="https://github.com/user-attachments/assets/f2bef59b-7f4b-4613-8629-eb529ce8691a" width="400" alt="img">
+          <img src="https://es.pngtree.com/freepng/colombia-map-province-map-colombian-vector_9505764.html" width="400" alt="img">
         </a>
         <p>
           <a href="https://es.pngtree.com/freepng/colombia-map-province-map-colombian-vector_9505764.html" target="_blank">
-            <img src="https://img.shields.io/badge/APP-80ffaa?style=for-the-badge&logo=webpack&logoColor=black">
+            <img src="https://github.com/XORGE7/Interactive_Sales_Dashboard">
           </a>
           <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
             <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
