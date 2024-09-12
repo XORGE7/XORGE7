@@ -59,7 +59,7 @@ Me emociona la idea de contribuir al éxito de tu equipo en proyectos innovadore
   <h3 align="center">Dashboard</h3>
   <div align="center">
     <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
-      <img src="https://www.freepik.es/vector-gratis/infografia-mapa-plano-colombia_11299039.htm#query=mapa%20colombia&position=2&from_view=keyword&track=ais_hybrid&uuid=5eae98a0-9b1c-4983-8487-b04c5d18d6e6">
+      <img src="https://media.slidesgo.com/storage/3224850/responsive-images/0-colombia-map-infographics___media_library_original_1600_900.jpg">
     </a>
     <p>
       <a href="https://github.com/XORGE7/Interactive_Sales_Dashboard" target="_blank">
